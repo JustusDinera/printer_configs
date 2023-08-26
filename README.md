@@ -34,7 +34,9 @@ Druck starten und warten bis dieser fertig ist.
 
 #### Nach dem Druck
 Alle Pattern ansehen und entscheiden, wo die Flussrate am besten ist und liest den Modifier ab
+
 $$ FlowRatio_neu = FlowRatio_alt \times \cfrac{105 + Modifier}{100} $$
+
 Diesen Wert bei "Flussverhältnis" eingeben und das Profil speichern.
 
 ### Zweiter Durchlauf
@@ -44,7 +46,9 @@ Druck starten und warten bis dieser fertig ist.
 
 #### Nach dem Druck
 Alle Pattern ansehen und entscheiden, wo die Flussrate am besten ist und liest den Modifier ab
+
 $$ FlowRatio_neu = FlowRatio_alt \times \cfrac{100 + Modifier}{100} $$
+
 Diesen Wert bei "Flussverhältnis" eingeben und das Profil speichern.
 
 ## Pressure Advance
@@ -80,6 +84,7 @@ Den Druck starten und beobachten. Wenn das Ergebnis gut aussieht und mehrere Sch
 
 ### Nach dem Druck
 Den Druck messen, wo das Stringing nicht mehr vorhanden ist und mit der Formel den neuen Wert errechnen:
+
 $$ new_retraction = start_retraction + Messwert \times Schrittweite $$
 
 ## Der Drucker sollte nun auf das Filament abestimmt sein ;)
