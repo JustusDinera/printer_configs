@@ -21,7 +21,9 @@ Den Druck beobachten bis die Schichten nicht mehr gut aussehen und dann den Druc
 
 ### Nach dem Druck
 Mit einem Messchieber vom Boden aus, bis kurz bevor der Druck nicht mehr gut aussieht, messen. Danach wird folgende Formel angewand um die neue Flowrate einzustellen:
+
 $$ Flowrate = Anfangswert + Messwert \times Rate $$
+
 Diese Flowrate wird im Filament hinterlegt und gespeichert.
 
 ## 2. Flowrate
