@@ -1,4 +1,4 @@
-# Kalibriungs Guide
+# Kalibrierungs Guide
 Eine Anleitung zur Kalibrierung des Filaments für jeden Drucker mittels der Kalibrierungsmöglichkeiten im OrcaSlicer.
 ## 1. Volumetric Speed ermitteln
 ### Im OrcaSlicer
