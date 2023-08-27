@@ -87,5 +87,5 @@ Den Druck messen, wo das Stringing nicht mehr vorhanden ist und mit der Formel d
 
 $$ new_retraction = start_retraction + Messwert \times Schrittweite $$
 
-## Der Drucker sollte nun auf das Filament abestimmt sein ;)
+## Der Drucker sollte nun auf das Filament abgestimmt sein ;)
 
